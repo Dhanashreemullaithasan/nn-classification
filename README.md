@@ -208,5 +208,4 @@ Include screenshot of the dataset
 Thus a neural network classification model is developed for the given dataset.
 
 
-## RESULT
-Include your result here
+
